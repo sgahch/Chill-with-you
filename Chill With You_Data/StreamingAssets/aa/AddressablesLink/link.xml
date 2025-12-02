@@ -1,0 +1,52 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Bulbul.AllVolumeMaster" preserve="all" />
+    <type fullname="Bulbul.AmbientMaster" preserve="all" />
+    <type fullname="Bulbul.AmbientSeMaster" preserve="all" />
+    <type fullname="Bulbul.AmbientSeVolumeMaster" preserve="all" />
+    <type fullname="Bulbul.DirectionMusicMaster" preserve="all" />
+    <type fullname="Bulbul.GameParameterMaster" preserve="all" />
+    <type fullname="Bulbul.HeroineAIMaster" preserve="all" />
+    <type fullname="Bulbul.MasterData.LocalizationMaster" preserve="all" />
+    <type fullname="Bulbul.MasterData.NovelMaster" preserve="all" />
+    <type fullname="Bulbul.MasterData.ScenarioGroupMaster" preserve="all" />
+    <type fullname="Bulbul.MasterData.UnlockDecorationMaster" preserve="all" />
+    <type fullname="Bulbul.MasterData.UnlockEnvironmentMaster" preserve="all" />
+    <type fullname="Bulbul.MusicMaster" preserve="all" />
+    <type fullname="Bulbul.SystemSeMaster" preserve="all" />
+    <type fullname="Bulbul.DirectionMusicData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.AlterEgoParameter" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.AmbientSeSoundMasterData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.AmbientSoundMasterData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.BreakMovieData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.GamePomodoroTalkData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.LevelUpInfoData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.MasterData.LocalizationData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.MasterData.NovelData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.MasterData.ScenarioGroupData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.MasterData.UnlockDecorationData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.MasterData.UnlockEnvironmentData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.MusicData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.SmallTalkData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.SystemSeMasterData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.TalkSpeedData" preserve="nothing" serialized="true" />
+    <type fullname="Bulbul.WorkPCData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+  </assembly>
+</linker>
